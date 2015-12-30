@@ -63,10 +63,6 @@
             android:label="@string/title_activity_on_boarding_guide2" >
         </activity>
         <activity
-            android:name=".SearchActivity1"
-            android:label="@string/title_activity_search1" >
-        </activity>
-        <activity
             android:name=".OnBoardingGuide3"
             android:label="@string/title_activity_on_boarding_guide3" >
         </activity>
@@ -102,10 +98,6 @@
         <activity
             android:name=".AppointmentList"
             android:label="@string/title_activity_appointment_list" >
-        </activity>
-        <activity
-            android:name=".SearchDoc"
-            android:label="@string/title_activity_search_doc" >
         </activity>
         <activity
             android:name=".Search"
